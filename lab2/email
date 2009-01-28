@@ -1,0 +1,25 @@
+Professor,
+
+Some things you wanted to know:
+
+1) Here is the shell script I use. I have it in ~/bin, and ~/bin in my $PATH. Be sure to "chmod +x" it.
+
+############# Start DrJava Shell Script ###############
+#!/bin/sh
+java -jar /path/to/drjava/file.jar
+############# End DrJava Shell Script ###############
+
+2) To add this as an icon, right click on the panel (in KDE), choose "Add application to panel"->"Add non-KDE application"
+
+Copy the second line from the above shell script into the "excecutable" field and fill in the other fields as desired.
+
+There may be an easier way to do this, but I'd have to look into it.
+
+3) To ssh with X11 forwarding, "ssh -X user@host"
+It's VERY useful! (Note: DrJava doesn't tend to play nice. I haven't taken the time to look into this, because I perfer vim.)
+
+4) The errors you requested are in the attatched tarball, or in my home directory under /home/dmerrick/cpsc115/lab2/errors.tar.gz
+
+Happy coding,
+Dana Merrick
+CPSC115

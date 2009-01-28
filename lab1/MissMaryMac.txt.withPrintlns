@@ -1,0 +1,14 @@
+System.out.println("Miss Mary Mack Mack Mack");
+System.out.println("All dressed in black, black, black");
+System.out.println("With silver buttons, buttons, buttons");
+System.out.println("All down her back, back, back.");
+System.out.println("");
+System.out.println("She asked her mother, mother, mother");
+System.out.println("For 50 cents, cents, cents");
+System.out.println("To see the elephants, elephants, elephants");
+System.out.println("Jump over the fence, fence, fence.");
+System.out.println("");
+System.out.println("They jumped so high, high, high");
+System.out.println("They reached the sky, sky, sky");
+System.out.println("And they didn't come back, back, back");
+System.out.println("'Til the 4th of July, ly, ly!");
